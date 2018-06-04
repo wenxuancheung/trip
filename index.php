@@ -2,7 +2,7 @@
 	<img src="<?php echo NIANHUI_STATIC?>img/ball.png" class="top-img"/>
 	<img src="<?php echo NIANHUI_STATIC?>img/smallBall.png" class="bottom-img"/>
 	<img src="<?php echo NIANHUI_STATIC?>img/star.png" class="className" style="position: relative;left: -72px;top: 150px;"/>
-	<img src="<?php echo NIANHUI_STATIC?>img/starTwo.png" class="className" style="position: relative;left: 505px;top: 160px;" />
+	<img src="<?php echo NIANHUI_STATIC?>img/starTwo.png" class="className" style="position: relative;left: 450px;top: 160px;" />
 	<img src="<?php echo NIANHUI_STATIC?>img/starTwo.png" class="className" style="position: relative;left: -150px;top: 20px;" />
 	<img src="<?php echo NIANHUI_STATIC?>img/starThird.png" class="className" style="position: relative;left: -355px;top: 300px;" />
 	<img src="<?php echo NIANHUI_STATIC?>img/starThird.png" class="className" style="position: relative;left: 250px;top: 350px;" />
